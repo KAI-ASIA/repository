@@ -1,4 +1,6 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Jan 03 23:14:54 ICT 2025
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jan 04 21:25:33 ICT 2025
 aether-impl-0.9.0.M2.jar>UK=
+aether-impl-0.9.0.M2.jar>central=
 aether-impl-0.9.0.M2.pom>UK=
+aether-impl-0.9.0.M2.pom>central=

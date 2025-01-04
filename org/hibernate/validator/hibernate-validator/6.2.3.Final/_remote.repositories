@@ -1,4 +1,6 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Jan 03 23:29:21 ICT 2025
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jan 04 21:25:22 ICT 2025
 hibernate-validator-6.2.3.Final.pom>UK=
+hibernate-validator-6.2.3.Final.jar>central=
+hibernate-validator-6.2.3.Final.pom>central=
 hibernate-validator-6.2.3.Final.jar>UK=

@@ -1,4 +1,6 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Jan 03 23:12:15 ICT 2025
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jan 04 21:25:23 ICT 2025
 jul-to-slf4j-1.7.36.jar>UK=
+jul-to-slf4j-1.7.36.jar>central=
+jul-to-slf4j-1.7.36.pom>central=
 jul-to-slf4j-1.7.36.pom>UK=

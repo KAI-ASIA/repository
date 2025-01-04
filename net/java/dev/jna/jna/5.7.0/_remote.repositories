@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Jan 03 23:20:39 ICT 2025
+#Sat Jan 04 21:25:37 ICT 2025
+jna-5.7.0.jar>central=
+jna-5.7.0.pom>central=
 jna-5.7.0.pom>UK=
 jna-5.7.0.jar>UK=

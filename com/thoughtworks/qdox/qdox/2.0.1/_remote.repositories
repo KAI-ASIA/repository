@@ -1,4 +1,6 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Jan 03 23:05:09 ICT 2025
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jan 04 21:25:29 ICT 2025
 qdox-2.0.1.pom>UK=
+qdox-2.0.1.jar>central=
+qdox-2.0.1.pom>central=
 qdox-2.0.1.jar>UK=

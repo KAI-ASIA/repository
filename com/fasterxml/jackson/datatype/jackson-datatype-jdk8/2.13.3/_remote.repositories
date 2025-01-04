@@ -1,4 +1,6 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Jan 03 23:12:17 ICT 2025
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jan 04 21:25:22 ICT 2025
 jackson-datatype-jdk8-2.13.3.jar>UK=
 jackson-datatype-jdk8-2.13.3.pom>UK=
+jackson-datatype-jdk8-2.13.3.jar>central=
+jackson-datatype-jdk8-2.13.3.pom>central=

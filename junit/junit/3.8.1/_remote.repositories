@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Jan 03 23:20:49 ICT 2025
+#Sat Jan 04 21:25:29 ICT 2025
 junit-3.8.1.jar>UK=
+junit-3.8.1.jar>central=
+junit-3.8.1.pom>central=
 junit-3.8.1.pom>UK=

@@ -1,4 +1,6 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Jan 03 23:12:23 ICT 2025
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jan 04 21:25:22 ICT 2025
 jandex-2.4.2.Final.jar>UK=
+jandex-2.4.2.Final.jar>central=
 jandex-2.4.2.Final.pom>UK=
+jandex-2.4.2.Final.pom>central=

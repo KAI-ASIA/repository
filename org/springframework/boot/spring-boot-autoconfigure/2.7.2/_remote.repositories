@@ -1,4 +1,6 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Jan 03 23:12:14 ICT 2025
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jan 04 21:25:22 ICT 2025
+spring-boot-autoconfigure-2.7.2.jar>central=
 spring-boot-autoconfigure-2.7.2.pom>UK=
+spring-boot-autoconfigure-2.7.2.pom>central=
 spring-boot-autoconfigure-2.7.2.jar>UK=

@@ -1,4 +1,6 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Jan 03 23:03:59 ICT 2025
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jan 04 21:25:25 ICT 2025
+spring-boot-maven-plugin-2.7.2.jar>central=
 spring-boot-maven-plugin-2.7.2.jar>UK=
+spring-boot-maven-plugin-2.7.2.pom>central=
 spring-boot-maven-plugin-2.7.2.pom>UK=

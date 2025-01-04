@@ -1,4 +1,6 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Jan 03 23:12:27 ICT 2025
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jan 04 21:25:22 ICT 2025
 spring-jdbc-5.3.10.jar>UK=
+spring-jdbc-5.3.10.jar>central=
 spring-jdbc-5.3.10.pom>UK=
+spring-jdbc-5.3.10.pom>central=
